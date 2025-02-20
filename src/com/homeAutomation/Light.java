@@ -1,5 +1,5 @@
 package com.homeAutomation;
 
-public class Light {
+public class Light extends Device {
 
 }

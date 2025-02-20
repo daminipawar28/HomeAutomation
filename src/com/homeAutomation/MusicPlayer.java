@@ -1,5 +1,5 @@
 package com.homeAutomation;
 
-public class MusicPlayer {
+public class MusicPlayer extends Device {
 
 }
