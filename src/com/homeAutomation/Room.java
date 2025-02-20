@@ -15,7 +15,7 @@ import java.util.List;
 		}
 		
 
-		public Room(String roomType) {
+		public Room() {
 			super();
 			this.roomType = roomType;
 		}

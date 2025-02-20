@@ -6,6 +6,8 @@ public class TV extends Device implements EntertainmentDevices{
 	double currentVolume = 10;
 	double currentChannel = 107;
 	double numberOfChannel = 300;
+	
+	
 	Scanner sc = new Scanner(System.in);
 	
 		
